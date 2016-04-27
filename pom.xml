@@ -4,24 +4,30 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.apolselli</groupId>
 	<artifactId>web-performance-metrics</artifactId>
-	<version>1.0</version>
+	<version>1.1</version>
 	<packaging>jar</packaging>
 
 	<name>Web Performance Metrics</name>
-	<description>A web-app lib useful to collect HTTP API performance metrics and expose them via JMX for monitoring purpose.</description>
+	<description>A web-app lib useful to collect HTTP API performance metrics and expose them via JMX for monitoring purposes.</description>
 
 	<url>https://github.com/apolselli/web-performance-metrics</url>
 
 	<licenses>
 		<license>
-			<name>GNU General Public License, version 3</name>
-			<url>http://www.gnu.org/licenses/gpl-3.0.txt</url>
+			<name>Apache License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<distribution>repo</distribution>
+			<comments>A business-friendly OSS license</comments>
 		</license>
 	</licenses>
 
 	<developers>
 		<developer>
 			<name>Alessandro Polselli</name>
+			<roles>
+				<role>architect</role>
+				<role>developer</role>
+			</roles>
 		</developer>
 	</developers>
 
