@@ -1,5 +1,5 @@
 # web-performance-metrics
-a web-app lib useful to collect HTTP (e.g. REST or WS) API performance metrics and expose them via JMX for monitoring purposes.
+A web-app lib useful to collect HTTP (e.g. REST or WS) API performance metrics and expose them via JMX for monitoring purposes.
 
 It can be included in any Java EE 6 Web Application as a maven dependency:
 
