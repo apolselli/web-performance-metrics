@@ -6,7 +6,7 @@ It can be included in any Java EE 6 Web Application as a maven dependency:
 `<dependency>`  
 `<groupId>com.github.apolselli</groupId>`  
 `<artifactId>web-performance-metrics</artifactId>`  
-`<version>1.0</version>`  
+`<version>1.1</version>`  
 `</dependency>`  
 
 and then configured and activated via web.xml:
